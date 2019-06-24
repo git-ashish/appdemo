@@ -21,3 +21,4 @@ To run the app in your local R session:
     library(opencpu)
     opencpu$browse("/library/appdemo/www")
 
+
